@@ -4,8 +4,8 @@ export const MenuApp: React.FC = () => {
 		<aside className="column is-2 is-narrow-mobile is-fullheight section is-hidden-mobile ">
 			<p className="menu-label is-hidden-touch">Minahs vendas</p>
 			<ul className="menu-list">
-				<MenuItem href="./" label="Home" />
-				<MenuItem href="./" label="Cadastros" />
+				<MenuItem href="/" label="Home" />
+				<MenuItem href="/cadastros/produtos" label="Cadastros" />
 				<MenuItem href="./" label="Config" />
 				<MenuItem href="./" label="Sair" />
 			</ul>

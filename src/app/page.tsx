@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <>
       
-      <LayoutMenu titulo='Cadastro'/>
+      <LayoutMenu titulo='Home'/>
       
     </>
   );
